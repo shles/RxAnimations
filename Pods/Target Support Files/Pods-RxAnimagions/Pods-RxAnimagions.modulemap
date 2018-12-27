@@ -1,0 +1,6 @@
+module Pods_RxAnimagions {
+  umbrella header "Pods-RxAnimagions-umbrella.h"
+
+  export *
+  module * { export * }
+}
